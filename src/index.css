@@ -1,0 +1,20 @@
+/* src/App.css */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box;
+}
+.App {
+  text-align: center;
+  background-color: #212121;
+  color: white;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+canvas {
+  display: block;
+}
